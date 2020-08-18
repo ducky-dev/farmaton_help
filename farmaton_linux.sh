@@ -54,5 +54,5 @@ echo Your custom java path for farmaton is:
 
 PLEASE NOTE: 
 
-Using this path is inteded for mirror mode use. If you plan on running non-mirror clients, you may use your preferred linux java version.
+Using this path is inteded for mirror mode use. If you plan on running non-mirror clients, you may use your preferred linux java version, or this one.
 
