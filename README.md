@@ -6,8 +6,7 @@ to run the farmaton_linux.sh shell script, copy and paste this into a terminal:
 
 
 
-curl https://raw.githubusercontent.com/ducky-dev/farmaton_help/master/farmaton_linux.sh | sh
-
+```curl https://raw.githubusercontent.com/ducky-dev/farmaton_help/master/farmaton_linux.sh | sh```
 
 
 
