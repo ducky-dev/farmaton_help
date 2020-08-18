@@ -47,7 +47,7 @@ wget https://farmaton.s3.amazonaws.com/Farmaton_Beta44.7.zip
 
 unzip Farmaton_Beta44.7.zip -d /home/$USER/Desktop/Farmaton
 
-echo Your custom java path for farmaton is: 
+echo 'Your custom java path for farmaton is: 
 
 /home/$USER/.wine/drive_c/Program Files/AdoptOpenJDK/jdk-8.0.265.01-hotspot/bin/java.exe
 
@@ -55,4 +55,6 @@ echo Your custom java path for farmaton is:
 PLEASE NOTE: 
 
 Using this path is inteded for mirror mode use. If you plan on running non-mirror clients, you may use your preferred linux java version, or this one.
+When running Farmaton for the first time you may be asked to install additional dependencies such as gecko, mono, etc. 
+Please follow the prompt and install them.' > /home/$USER/Desktop/Farmaton/README.txt
 
